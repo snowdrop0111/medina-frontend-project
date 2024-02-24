@@ -55,8 +55,6 @@ const Navbar = () => {
         <a href="">Contact</a>
   
         <button className="primary-button">Sign up</button>
-        <button className="primary-button">Sign up</button>
-        <button className="primary-button">Sign up</button>
       </div>
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />
